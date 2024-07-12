@@ -1,5 +1,4 @@
 import React from 'react';
-// import Card from './Card';
 import NavBar from './NavBar';
 import Footer from './Footer';
 
